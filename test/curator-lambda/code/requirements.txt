@@ -4,7 +4,7 @@ click==6.7
 elasticsearch==6.0.0
 elasticsearch-curator==5.4.1
 idna==2.6
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.4
 requests-aws4auth==0.9
 urllib3==1.22
