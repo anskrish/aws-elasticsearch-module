@@ -7,5 +7,5 @@ idna==2.6
 PyYAML==3.12
 requests==2.18.4
 requests-aws4auth==0.9
-urllib3==1.22
+urllib3==1.24.2
 voluptuous==0.10.5
